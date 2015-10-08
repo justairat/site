@@ -1,3 +1,5 @@
+
 Print("WELCOME");
 hello my dear friend
 nia nia 111
+hello my dear friend;
