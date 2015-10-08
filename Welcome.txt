@@ -1,2 +1,2 @@
-Print("WELCOME");
-hello my dear friend
+Print("WELCOME;");
+hello my dear friend;
