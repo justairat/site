@@ -1,2 +1,2 @@
 Print("WELCOME");
-all
+hello my dear friend
