@@ -1,0 +1,2 @@
+Print("WELCOME");
+print("What'up?);
